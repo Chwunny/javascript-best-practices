@@ -30,3 +30,9 @@ JSLint is a debugger written by Douglas Crockford. Simply paste in your script, 
 
 10. Place Scripts at the Bottom of Your Page
 This tip has already been recommended in the previous article in this series. As it's highly appropriate, though, I'll paste in the information.
+
+
+Sources:
+1. https://www.thinkful.com/learn/javascript-best-practices-1/
+2. https://www.w3schools.com/js/js_best_practices.asp
+3. https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399
